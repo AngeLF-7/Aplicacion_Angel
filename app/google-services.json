@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879137853793",
+    "project_id": "authfirebaseangel",
+    "storage_bucket": "authfirebaseangel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879137853793:android:7a38a0003f3a9c01387520",
+        "android_client_info": {
+          "package_name": "com.example.authfirebaseangel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7dpWgvID8fS4ZEscAuvI7Nn-4Pf4fFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
